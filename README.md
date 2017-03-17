@@ -11,7 +11,8 @@ http://idiom.ucsd.edu/~rlevy/teaching/2014fall/lign247/index.html
 https://github.com/evanmiltenburg/python-for-text-analysis��
 ### NLP RESOURCES
 https://github.com/keon/awesome-nlp
-
+Course on compling and NLP from John Hopkins
+http://www.cs.jhu.edu/~jason/465/
 #Journals on NLP andd CL 
 http://www.derczynski.com/sheffield/journals.html
 
