@@ -15,7 +15,8 @@ Course on compling and NLP from John Hopkins
 http://www.cs.jhu.edu/~jason/465/
 #Journals on NLP andd CL 
 http://www.derczynski.com/sheffield/journals.html
-
+#Video Conference talk on pragmatics of language
+https://www.youtube.com/watch?v=v8IlxtcYu0k
 
 #Syllabus for Deep Learning
 http://pastebin.com/1EaVB8za
