@@ -7,6 +7,8 @@ A compilation of resources in linguistics. Mostly focusing on Computational Ling
 http://idiom.ucsd.edu/~rlevy/teaching/2015winter/lign165/index.html
 ###Course on Beysian and Game Theoretic Pragmatics
 http://idiom.ucsd.edu/~rlevy/teaching/2014fall/lign247/index.html
+### EVO-GAME THEORY + LINGUISTICS - JAGER
+http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/egtTuebingen/
 ###Python Text Analysis Course
 https://github.com/evanmiltenburg/python-for-text-analysis��
 ### NLP RESOURCES
