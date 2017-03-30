@@ -1,8 +1,10 @@
 # LinguisticNotes
 A compilation of resources in linguistics. Mostly focusing on Computational Linguistics and game theoretic pragmatics. 
 
-### LAMDA CALC COMIC THAT HELPS UNDERSTAND THIS 
+### LAMDA CALC resources
 http://imgur.com/a/XBHub
+http://people.umass.edu/partee/NZ_2006/NZ06_Ling_310.htm
+https://web.stanford.edu/~cgpotts/talks/potts-symsys100-2012-04-26-montague.pdf
 ���
 
 ### Intro to Comp Ling�
