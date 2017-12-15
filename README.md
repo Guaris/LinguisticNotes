@@ -1,8 +1,10 @@
 Towards a comprehensive resource for Game Theoretic Pragmatics
 ======
 A compilation of syllabi, learning resources, handouts, seminal papers--that can serve as a reference or a self-taught venture into the world of Game Theoretic Pragmatics.
-![alt text](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg3lgvEVv2X7qpRbzNMe2olzZ9-F5Y154krfuNtwRCOVyeuIr5)
-[www.ucl.ac.uk/~uctpshu/gamesandopera.html]
+
+![alt text](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg3lgvEVv2X7qpRbzNMe2olzZ9-F5Y154krfuNtwRCOVyeuIr5)[www.ucl.ac.uk/~uctpshu/gamesandopera.html]
+
+
 #### Resources for understanding The Lambda Calculus
 >The quicker you understand Lambda Calculus, the further you will go in understanding GT SEMPRAG. Below are some resources that can be useful in self-studying Lambda Calculus--particularly with a focus on semantic truth values.
 
